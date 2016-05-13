@@ -1,0 +1,47 @@
+#map-canvas {
+	margin: 0;
+	padding: 0;
+	min-height: 475px;
+	max-width: none;
+    font-size: 14px;
+    font-family: "MuseoSansCyrl300", sans-serif;
+}
+
+.gm-style-iw {
+	width: 303px !important;
+	top: 35px !important;
+	left: 0 !important;
+    background: url("/img/map_house.png") no-repeat top center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+    font-size: 14px;
+    font-family: "MuseoSansCyrl300", sans-serif;
+    text-align: center;
+}
+
+#iw-container {
+	margin-bottom: 10px;
+    height: 295px !important;
+
+}
+
+#iw-container .iw-content {
+	margin-right: 1px;
+	overflow-y: hidden;
+	overflow-x: hidden;
+
+}
+#iw-container .iw-bottom-gradient span{
+    position: relative;
+	top: 190px;
+}
+#iw-container .iw-bottom-gradient h4{
+    color: #FECC03;
+	font-family: "MuseoSansCyrl700", sans-serif;
+	font-size: 18px;
+	position: relative;
+	top: 195px;
+}
