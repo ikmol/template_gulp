@@ -1,5 +1,5 @@
 # Gulp template
-html/css template for fast start with all libs
+html/css/js template for fast start with all libs
 
 # Install
 - Create new folder
