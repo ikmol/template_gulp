@@ -1,5 +1,2 @@
-Base template
-# create new project (folder):
-# npm i
-
-
+# template_gulp
+base template for fast start
